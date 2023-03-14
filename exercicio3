@@ -1,0 +1,5 @@
+a= int(input('informe sua nota'))
+b= int(input('informe sua nota'))
+c= int(input('informe sua nota'))
+media = (a+b+c)/3
+print(media)

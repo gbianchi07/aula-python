@@ -1,0 +1,13 @@
+numero = int(input("digite um numero"))
+outro = int(input("digite outro numero"))
+soma = numero+outro
+mult = numero*outro
+print(soma)
+print(mult)
+
+
+
+
+
+
+
